@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.46d7125c83e66550d0b110a436cac4f8.js"
+  "/precache-manifest.b01e70872e68f664079055649a797f73.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "clean-seats"});
